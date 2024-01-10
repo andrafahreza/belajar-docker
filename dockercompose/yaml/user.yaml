@@ -1,0 +1,15 @@
+firstName: Andra
+lastName: Fahreza
+hobbies:
+  - Coding
+  - Reading
+  - Gaming
+address:
+  street: Jl. Sunggal
+  city: Medan
+  country: Indonesia
+wallet:
+  - type: cash
+    amount: 10000
+  - type: Debit
+    amount: 20000
